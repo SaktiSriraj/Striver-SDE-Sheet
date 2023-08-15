@@ -3,7 +3,7 @@
 Solutions to the Striver SDE Sheet<br/>
 <br/>
 Day 1 - Arrays I <br/>
-	@ensp;@ensp;> Kadane's Algorithm<br/>
+	@nbsp;@nbsp;> Kadane's Algorithm<br/>
 	@ensp;@ensp;> Next Permutation (Yet to be done)<br/>
 	@ensp;@ensp;> Pascal's Triangle<br/>
 	@ensp;@ensp;> Set Zero Matrix<br/>
