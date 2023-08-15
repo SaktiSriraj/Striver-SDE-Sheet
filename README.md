@@ -2,7 +2,7 @@
 
 Solutions to the Striver SDE Sheet
 
-Day 1 - Arrays I
+Day 1 - Arrays I <br/>
 	> Kadane's Algorithm
 	> Next Permutation (Yet to be done)
 	> Pascal's Triangle
