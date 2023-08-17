@@ -1,4 +1,4 @@
-package Day0ne;
+package Day_01;
 import java.util.*;
 
 /*

@@ -1,4 +1,4 @@
-package Day0ne;
+package Day_01;
 
 /* Given an m x n integer matrix, if an element is 0,
 set its entire row and column to 0's */

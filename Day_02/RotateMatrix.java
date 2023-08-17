@@ -1,6 +1,10 @@
-package DayTwo;
+package Day_02;
 
-public class RotateArray {
+/*
+Given a matrix, your task is to rotate the matrix 90 degrees clockwise.
+*/
+
+public class RotateMatrix {
     public static void reverseArray(int arr[], int start, int end){
         int temp;
         while (start < end){

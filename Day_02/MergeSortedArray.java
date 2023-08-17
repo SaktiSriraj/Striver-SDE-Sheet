@@ -1,4 +1,4 @@
-package DayTwo;
+package Day_02;
 
 /*
 You are given two integer arrays nums1 and nums2, sorted in non-decreasing order,
