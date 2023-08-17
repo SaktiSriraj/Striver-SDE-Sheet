@@ -18,5 +18,5 @@ Given an array of integers nums, find the next permutation of nums.
 */
 
 public class NextPermutation {
-
+    
 }
