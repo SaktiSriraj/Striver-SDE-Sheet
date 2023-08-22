@@ -2,7 +2,7 @@
 
 Solutions to the Striver SDE Sheet<br/>
 <br/>
-<h3>Day 1 - Arrays I </h3>
+<h1>Day 1 - Arrays I </h1>
 <ul>
  <li>Kadane's Algorithm</li>
  <li>Next Permutation (Yet to be done)</li>
@@ -11,10 +11,9 @@ Solutions to the Striver SDE Sheet<br/>
  <li>Sort 0's 1's & 2's</li>
  <li>Stock Buy and Sell</li>
  </ul>
-<br/>
 
 
-<h3>Day 2 - Arrays II</h3>
+<h1>Day 2 - Arrays II</h1>
 <ul>
  <li>Count Inversions</li>
  <li>Find Duplicate Number</li>
@@ -25,7 +24,7 @@ Solutions to the Striver SDE Sheet<br/>
 </ul>
 
 
-<h3>Day 3 - Arrays III</h3>
+<h1>Day 3 - Arrays III</h1>
 <ul>
  <li>Grid Unique Path</li>
  <li>Majority Element in Half of the Whole Array</li>
