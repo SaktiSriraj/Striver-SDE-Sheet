@@ -2,7 +2,7 @@
 
 Solutions to the Striver SDE Sheet<br/>
 <br/>
-<h1>Day 1 - Arrays I </h1>
+<h><h1>Day 1 - Arrays I </h1></h>
 <ul>
  <li>Kadane's Algorithm</li>
  <li>Next Permutation (Yet to be done)</li>
