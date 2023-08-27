@@ -30,4 +30,16 @@ Solutions to the Striver SDE Sheet<br/>
  <li>Majority Element in Half of the Whole Array</li>
  <li>Majority Element in the Third of Whole Array</li>
  <li>Search in Matrix</li>
+ <li>Reverse Pair</li>
+ <li>Exponential</li>
+</ul>
+
+<h1>Day 4 - Arrays IV</h1>
+<ul>
+ <li>2 Sum</li>
+ <li>4 Sum</li>
+ <li>Longest Consecutive Sub-Sequence</li>
+ <li>Largest Subarray With K Sum</li>
+ <li>Count No. of Subarrays with give XOR K</li>
+ <li>Longest Subarray Without Repeat</li>
 </ul>
